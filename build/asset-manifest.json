@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/revolution/static/css/main.b6683d17.chunk.css",
-    "main.js": "/revolution/static/js/main.8eac4378.chunk.js",
-    "main.js.map": "/revolution/static/js/main.8eac4378.chunk.js.map",
-    "runtime-main.js": "/revolution/static/js/runtime-main.1c06dc68.js",
-    "runtime-main.js.map": "/revolution/static/js/runtime-main.1c06dc68.js.map",
+    "main.js": "/revolution/static/js/main.5e5f4849.chunk.js",
+    "main.js.map": "/revolution/static/js/main.5e5f4849.chunk.js.map",
+    "runtime-main.js": "/revolution/static/js/runtime-main.4cd5614f.js",
+    "runtime-main.js.map": "/revolution/static/js/runtime-main.4cd5614f.js.map",
     "static/js/2.d64c017c.chunk.js": "/revolution/static/js/2.d64c017c.chunk.js",
     "static/js/2.d64c017c.chunk.js.map": "/revolution/static/js/2.d64c017c.chunk.js.map",
-    "static/js/3.ee290a79.chunk.js": "/revolution/static/js/3.ee290a79.chunk.js",
-    "static/js/3.ee290a79.chunk.js.map": "/revolution/static/js/3.ee290a79.chunk.js.map",
     "index.html": "/revolution/index.html",
     "static/css/main.b6683d17.chunk.css.map": "/revolution/static/css/main.b6683d17.chunk.css.map",
     "static/js/2.d64c017c.chunk.js.LICENSE.txt": "/revolution/static/js/2.d64c017c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c06dc68.js",
+    "static/js/runtime-main.4cd5614f.js",
     "static/js/2.d64c017c.chunk.js",
     "static/css/main.b6683d17.chunk.css",
-    "static/js/main.8eac4378.chunk.js"
+    "static/js/main.5e5f4849.chunk.js"
   ]
 }

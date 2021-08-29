@@ -16,7 +16,7 @@ import { useSelector, useDispatch } from "react-redux";
 function App() {
   const selector = useSelector((state) => state.cartReducer);
   const dispatch = useDispatch();
-  const [state, setState] = useState([]);
+  const [state] = useState([]);
 
   useEffect(() => {
     axios
