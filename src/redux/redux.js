@@ -1,15 +1,15 @@
-import { createStore,combineReducers} from "redux";
+import { createStore, combineReducers } from "redux";
 import paltarReducer from "./paltarReducer";
 
 import cardReducer from "./cardReducer";
 
-const reducers=combineReducers({
+const reducers = combineReducers({
   cardReducer,
-  paltarReducer
-})
+  paltarReducer,
+});
 
-const configureStore=()=>{
-    return createStore(reducers)
-}
+const configureStore = () => {
+  return createStore(reducers);
+};
 
-export default configureStore
+export default configureStore;

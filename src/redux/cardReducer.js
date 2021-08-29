@@ -1,14 +1,14 @@
-let data=[]
+let data = [];
 
-const cardReducer=(state=data,action)=>{
-    console.log(action)
-        switch(action.type){
-            case "CARD_DATA":
-             return [...state,action.payload]
+const cardReducer = (state = data, action) => {
+  console.log(action);
+  switch (action.type) {
+    case "CARD_DATA":
+      return [...state, action.payload];
 
-         default:
-                   return state
-        }
-}
+    default:
+      return state;
+  }
+};
 
-export default cardReducer
+export default cardReducer;
